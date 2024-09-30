@@ -1,3 +1,5 @@
+//Authored by me: https://www.esri.com/arcgis-blog/products/field-maps/field-mobility/design-email-and-phone-buttons-for-arcgis-field-maps/
+
 var imgSizeCSS = `style="width: 16px; height: 16px"`;
 
 var buttonsArray = [
