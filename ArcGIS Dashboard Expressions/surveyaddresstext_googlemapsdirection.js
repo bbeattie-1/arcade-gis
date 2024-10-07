@@ -1,4 +1,5 @@
 //Google Maps Directions API URL
+//Meant For <a> tag href attribute
 
 function Directions(destination_input, travelmode_input) {
   var destination = UrlEncode(destination_input);
